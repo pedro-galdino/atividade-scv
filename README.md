@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Pedro Lucas Galdino Leite</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
